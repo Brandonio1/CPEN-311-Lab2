@@ -1,0 +1,135 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/phamh/source/CPEN-311/HW2
+vBinary_Counter
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1748632039
+!i10b 1
+!s100 z:ajj[`AG2=7Sknck8]kF0
+I4@QJiLNn?ljSFUCEzN`en3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 Binary_Counter_v2_sv_unit
+S1
+Z3 dC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim
+w1748632035
+8C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Binary_Counter_v2.sv
+FC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Binary_Counter_v2.sv
+L0 13
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1748632039.000000
+!s107 C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Binary_Counter_v2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Binary_Counter_v2.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+n@binary_@counter
+vClk_Freq_Divider
+R0
+R1
+!i10b 1
+!s100 IYlZ^PX>UP<f8kQ>mPj_]3
+I9>A9EJfZdZLc?6NYD_`m^3
+R2
+!s105 Clk_Freq_Divider_v2_sv_unit
+S1
+R3
+w1748631012
+8C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Clk_Freq_Divider_v2.sv
+FC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Clk_Freq_Divider_v2.sv
+L0 15
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Clk_Freq_Divider_v2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Clk_Freq_Divider_v2.sv|
+!i113 1
+R6
+R7
+n@clk_@freq_@divider
+vClk_Freq_Divider_tb
+R0
+!s110 1748631017
+!i10b 1
+!s100 UeM_dK3XPda8NFMzO[4gg2
+IN4KGJC@HMEblX?ihOM;5N1
+R2
+!s105 Clk_Freq_Divider_tb_sv_unit
+S1
+R3
+w1748329827
+8C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/Clk_Freq_Divider_tb.sv
+FC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/Clk_Freq_Divider_tb.sv
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1748631017.000000
+!s107 C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/Clk_Freq_Divider_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/Clk_Freq_Divider_tb.sv|
+!i113 1
+R6
+R7
+n@clk_@freq_@divider_tb
+vClk_Freq_Divider_v2_tb
+R0
+R1
+!i10b 1
+!s100 E67SK[j;z]4O@8j?b5I_c1
+In2XoO^hjiX=F1Sn7RTAm=2
+R2
+!s105 Clk_Freq_Divider_v2_tb_sv_unit
+S1
+R3
+w1748631721
+8C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/Clk_Freq_Divider_v2_tb.sv
+FC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/Clk_Freq_Divider_v2_tb.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/Clk_Freq_Divider_v2_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/Clk_Freq_Divider_v2_tb.sv|
+!i113 1
+R6
+R7
+n@clk_@freq_@divider_v2_tb
+vvTFFER
+R0
+R1
+!i10b 1
+!s100 a6oYk3M^3;KS<95LhI`;R1
+IADD3WRJIN8L79EJBUC14S3
+R2
+!s105 vTFFER_sv_unit
+S1
+R3
+w1748298734
+8C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/vTFFER.sv
+FC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/vTFFER.sv
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/vTFFER.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/vTFFER.sv|
+!i113 1
+R6
+R7
+nv@t@f@f@e@r
