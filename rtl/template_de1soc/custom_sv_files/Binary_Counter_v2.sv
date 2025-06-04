@@ -24,7 +24,8 @@ module Binary_Counter (clk,rst,count_to,out);
     assign out = (current_count >= count_to);
 
     // Counter FF
-    always_ff @(posedge clk) begin
+    always_ff @(posedge clk) 
+    begin
         if (rst) begin
             current_count <= 0;
         end

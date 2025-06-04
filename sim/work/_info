@@ -10,15 +10,15 @@ cModel Technology
 dC:/Users/phamh/source/CPEN-311/HW2
 vBinary_Counter
 Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
-Z1 !s110 1748632039
+Z1 !s110 1748930670
 !i10b 1
-!s100 z:ajj[`AG2=7Sknck8]kF0
-I4@QJiLNn?ljSFUCEzN`en3
+!s100 @PT^gebGLUa:c4L`07N2^3
+IRmK8PGHVjm2VTG:JoR<E92
 Z2 VDg1SIo80bB@j0V0VzS_@n1
 !s105 Binary_Counter_v2_sv_unit
 S1
 Z3 dC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim
-w1748632035
+w1748749375
 8C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Binary_Counter_v2.sv
 FC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Binary_Counter_v2.sv
 L0 13
@@ -26,7 +26,7 @@ Z4 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z5 !s108 1748632039.000000
+Z5 !s108 1748930670.000000
 !s107 C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Binary_Counter_v2.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Binary_Counter_v2.sv|
 !i113 1
@@ -108,17 +108,216 @@ R5
 R6
 R7
 n@clk_@freq_@divider_v2_tb
+vEdge_Trap
+R0
+Z8 !s110 1748930671
+!i10b 1
+!s100 Df[Q]4h8[bGB^HH:iaSJ40
+I::59BBLeUCoIA>gm:hDIn0
+R2
+!s105 Edge_Trap_sv_unit
+S1
+R3
+w1748750079
+8C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Edge_Trap.sv
+FC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Edge_Trap.sv
+L0 11
+R4
+r1
+!s85 0
+31
+Z9 !s108 1748930671.000000
+!s107 C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Edge_Trap.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Edge_Trap.sv|
+!i113 1
+R6
+R7
+n@edge_@trap
+vFLASH_Addr_Ctrl
+R0
+R8
+!i10b 1
+!s100 cHgd5iOJ``;lbUL`W;QD01
+IV@VBPe5DLGXI1DP?jo?G`2
+R2
+!s105 FLASH_Addr_Ctrl_sv_unit
+S1
+R3
+w1748928817
+8C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/FLASH_Addr_Ctrl.sv
+FC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/FLASH_Addr_Ctrl.sv
+L0 10
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/FLASH_Addr_Ctrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/FLASH_Addr_Ctrl.sv|
+!i113 1
+R6
+R7
+n@f@l@a@s@h_@addr_@ctrl
+vFLASH_Addr_Ctrl_tb
+R0
+R8
+!i10b 1
+!s100 ANzzd@Gc7XMR25?e>4W0F3
+I0AiEKkAJfzWVXW5UC<Ohd2
+R2
+!s105 FLASH_Addr_Ctrl_tb_sv_unit
+S1
+R3
+w1748908161
+8C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/FLASH_Addr_Ctrl_tb.sv
+FC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/FLASH_Addr_Ctrl_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/FLASH_Addr_Ctrl_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/FLASH_Addr_Ctrl_tb.sv|
+!i113 1
+R6
+R7
+n@f@l@a@s@h_@addr_@ctrl_tb
+vFLASH_Rd_Ctrl
+R0
+R8
+!i10b 1
+!s100 <Md`L:mXPTK3hA:bn02`I2
+I27aMIPoRM]zZ09@KSNd;S0
+R2
+!s105 FLASH_Rd_Ctrl_sv_unit
+S1
+R3
+w1748927093
+8C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/FLASH_Rd_Ctrl.sv
+FC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/FLASH_Rd_Ctrl.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/FLASH_Rd_Ctrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/FLASH_Rd_Ctrl.sv|
+!i113 1
+R6
+R7
+n@f@l@a@s@h_@rd_@ctrl
+vFLASH_Rd_Ctrl_tb
+R0
+R8
+!i10b 1
+!s100 B[RR`TTe;OkBa67gdcfQE3
+IjUNmc5R:ieJ91HZ?EJzYk1
+R2
+!s105 FLASH_Rd_Ctrl_tb_sv_unit
+S1
+R3
+w1748930668
+8C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/FLASH_Rd_Ctrl_tb.sv
+FC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/FLASH_Rd_Ctrl_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/FLASH_Rd_Ctrl_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/sim/FLASH_Rd_Ctrl_tb.sv|
+!i113 1
+R6
+R7
+n@f@l@a@s@h_@rd_@ctrl_tb
+vKBD_Interface
+R0
+DXx4 work 26 Keyboard_Interface_sv_unit 0 22 zDK[><Gbl:]6R3IQh0I<V3
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 BKb2Db;58k:kd?TM=K8FN2
+I5<Lm2aJQ7DZfzE5]4Mg0U2
+Z10 !s105 Keyboard_Interface_sv_unit
+S1
+R3
+Z11 w1748930007
+Z12 8C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Keyboard_Interface.sv
+Z13 FC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Keyboard_Interface.sv
+Z14 L0 29
+R4
+R9
+Z15 !s107 C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Keyboard_Interface.sv|
+Z16 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/Keyboard_Interface.sv|
+!i113 1
+R6
+R7
+n@k@b@d_@interface
+vKBD_Interfacec
+R0
+DXx4 work 26 Keyboard_Interface_sv_unit 0 22 L?gbMofBHa@kXFbT4JKl:1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 I47?iA8k2>b2[JYPleilT0
+I2U_zM6ajUhEf2_K@LFIHf1
+R10
+S1
+R3
+w1748919199
+R12
+R13
+R14
+R4
+!s108 1748919203.000000
+R15
+R16
+!i113 1
+R6
+R7
+n@k@b@d_@interfacec
+XKeyboard_Interface_sv_unit
+R0
+VzDK[><Gbl:]6R3IQh0I<V3
+r1
+!s85 0
+31
+!i10b 1
+!s100 T5XonkN<AW86CQTUki]0m1
+IzDK[><Gbl:]6R3IQh0I<V3
+!i103 1
+S1
+R3
+R11
+R12
+R13
+L0 2
+R4
+R9
+R15
+R16
+!i113 1
+R6
+R7
+n@keyboard_@interface_sv_unit
 vvTFFER
 R0
 R1
 !i10b 1
-!s100 a6oYk3M^3;KS<95LhI`;R1
-IADD3WRJIN8L79EJBUC14S3
+!s100 g_GXhNj6<T6=ghTjX=XVO2
+IJiVBO9Ok?]OWi;2Kln0k`3
 R2
 !s105 vTFFER_sv_unit
 S1
 R3
-w1748298734
+w1748749388
 8C:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/vTFFER.sv
 FC:/Users/phamh/source/CPEN-311/CPEN-311-Lab2/rtl/template_de1soc/custom_sv_files/vTFFER.sv
 L0 7
